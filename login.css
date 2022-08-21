@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://burst.shopifycdn.com/photos/fog-on-dark-waters-edge.jpg?width=1200&format=pjpg&exif=1&iptc=1);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+}
+div{
+  position: absolute;
+  left: 500px;
+  top: 100px;
+    background-color: transparent;
+    opacity: o.3;
+    color: azure;
+    width: 500px;
+    border: 10px solid  white;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+  
+  
